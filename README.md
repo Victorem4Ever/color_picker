@@ -5,7 +5,7 @@ HOW TO USE :
 
   When you run the executable :
   
-    Press 'escape' + 'enter' (in the same time, there is few bugs),
+    Press 'escape' + 'enter' (in the same time, there are few bugs),
     
     a window will appear,
     
